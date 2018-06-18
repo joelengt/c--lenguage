@@ -4,7 +4,7 @@ using namespace std;
 
 
 // Funcion => Bloque de codigo, que puede recibir argumentos como parametros, se llama y retorna un valor
-// Metogo => Una funcion dentro de un objeto
+// Metodo => Una funcion dentro de un objeto
 // Procedimiento => una funcion que no requiere necesidad de retornar , en c++ es void
 
 
